@@ -1,0 +1,53 @@
+~V|SOFT S.A.|FIEBDC-3/2016|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|B1#||Pavimentos|1100.55|310100|0|
+~D|B1#|E11RAC010\1\10\E11SPL010\1\20\E11EXB060\1\5\|
+~A|B1#|corcho\|
+~C|DEMOB1##|||1100.55|310100|0|
+~D|DEMOB1##|B1\1\1\|
+~C|E11EXB060|m2|BALDOSA BARRO C/PAJA 40x40x2,7 cm. C/ROD|38.45|310100|0|
+~D|E11EXB060|O01OB090\1\0.5\O01OA070\1\0.5\M01AA020\1\0.02\P08EXB060\1\1.05\P08EXP215\1\1.05\P01CC020\1\0.001\P01FJ060\1\0.6\|
+~A|E11EXB060|areno\material\limpieza\ejecución\rodapié\baldosa\tapajunta\medición\superficie\color\río\mortero\cemento\junta\solado\mecánico\|
+~C|E11RAC010|m2|PARQUET CORCHO 60x60x0,6 TRAVERTINO|43.55|010504|0|
+~D|E11RAC010|O01OB150\1\0.45\O01OA070\1\0.45\P08MC010\1\1.05\P08SM041\1\1.05\P08MA010\1\1.1\P08MA040\1\2.5\|
+~A|E11RAC010|natural\nivel\superficie\ejecución\barniz\parqué\colocación\corcho\limpieza\clase\rodapié\aluminio\pegamento\capa\fábrica\baldosa\travertino\|
+~C|E11SPL010|m.|PELDAÑO REVESTIDO LINÓLEO 2 mm.|23.64|010504|0|
+~D|E11SPL010|O01OA030\1\0.18\O01OA070\1\0.12\P08SL010\1\0.5\P08SW030\1\1\P08MA020\1\0.35\P08MA040\1\0.8\|
+~A|E11SPL010|limpieza\cantonera\medición\nivel\linóleo\peldaño\revestimiento\PVC\pasta\capa\revestir\adhesivo\|
+~C|M01AA020|m3|Arena de río 0/6 mm.|15.7|310100|3|
+~A|M01AA020|areno\río\|
+~C|O01OA030|h.|Oficial primera|17.67|140420|1|
+~C|O01OA070|h.|Peón ordinario|16.44|140420|1|
+~A|O01OA070|ordinario\|
+~C|O01OB090|h.|Oficial solador, alicatador|17.24|140420|1|
+~A|O01OB090|alicatar\|
+~C|O01OB150|h.|Oficial 1ª carpintero|18.13|140420|1|
+~A|O01OB150|carpintero\|
+~C|P01CC020|t.|Cemento CEM II/B-P 32,5 N sacos|95.2|310100|3|
+~A|P01CC020|cemento\|
+~C|P01FJ060|kg|Mort.tapaj.CG2 s/nEN-13888 Texjunt color|0.76|310100|3|
+~A|P01FJ060|color\|
+~C|P08EXB060|m2|Bald. barro c/paja 40x40x2,7 mecanica|17.25|010504|3|
+~A|P08EXB060|baldosa\mecánico\|
+~C|P08EXP215|m.|Rodapié de barro 40x10|2.5|010504|3|
+~A|P08EXP215|rodapié\|
+~C|P08MA010|kg|Pegamento s/madera|3.01|010504|3|
+~A|P08MA010|pegamento\|
+~C|P08MA020|kg|Adhesivo contacto|3.38|010504|3|
+~A|P08MA020|contacto\adhesivo\|
+~C|P08MA040|kg|Pasta niveladora|0.48|010504|3|
+~A|P08MA040|nivel\pasta\|
+~C|P08MC010|m2|Loseta corcho 600x600x6 travertino|18.99|010504|3|
+~A|P08MC010|corcho\travertino\baldosa\|
+~C|P08SL010|m2|Pavimento linóleo e:2 mm. tráf. moderado|15.93|010504|3|
+~A|P08SL010|moderar\linóleo\pavimentación\|
+~C|P08SM041|m.|Rodapié alumino 70x12 mm|3.37|010504|3|
+~A|P08SM041|rodapié\aluminio\|
+~C|P08SW030|m.|Cantonera peldaño PVC|8.96|010504|3|
+~A|P08SW030|peldaño\PVC\cantonera\|
+~T|E11EXB060|Solado de baldosa mecánica de barro cocido color paja de 40x40x2,7 cm., (AIII, s/n EN-188) recibida con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/6 (M-40), i/cama de 2 cm. de arena de río, p.p. de rodapié del mismo material de 30x10 cm.., rejuntado con mortero  tapajuntas CG2 s/nEN-13888 Texjunt color y limpieza, s/NTE-RSR-2, medido en superficie realmente ejecutada.|
+~T|E11RAC010|Parquet de corcho en losetas de 600x600x6 mm. barnizado de fábrica, clase de uso 23 ( s/n EN 685), con acabado travertino o acabado natural, colocado con pegamento sobre capa de nivelación limpia, s/NTE-RSR-12, i/ rodapié de 70x12 mm en aluminio , medida la superficie ejecutada.|
+~T|E11SPL010|Revestimiento de peldaño con linóleo de 2 mm. de espesor, cantonera de PVC, recibido con adhesivo sobre capa de pasta niveladora, i/alisado y limpieza, s/NTE-RSF, medido en su longitud.|
+~M|B1#\E11RAC010|1\1\|10||
+~M|B1#\E11SPL010|1\2\|20||
+~M|B1#\E11EXB060|1\3\|5||

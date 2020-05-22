@@ -1,0 +1,66 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|DEMOB4##|||2690.4|310100|0|
+~D|DEMOB4##|E18EP\1\1\|
+~C|E18EP#||PROYECTORES|2690.4|310100|0|
+~D|E18EP#|E18EPS\1\1\E18EPI\1\1\E18EPG\1\2\|
+~A|E18EP#|proyección\|
+~C|E18EPG#||PROYECTORES GASOLINERAS|20|040520|0|
+~A|E18EPG#|proyección\|
+~C|E18EPI#||PROYECTORES INUNDACIÓN LUZ|2433.16|310100|0|
+~D|E18EPI#|E18EPI010\1\3\E18EPI110\1\3\E18EPI380\1\4\E18EPI400\1\4\|
+~A|E18EPI#|inundación\luz\proyección\|
+~C|E18EPI010|ud|PROY.SIMÉ.INUNDACIÓN LUZ VSAP 70 W.|137.1|310100|0|
+~D|E18EPI010|O01OB200\1\1\P16AB010\1\1\P16CE010\1\1\P01DW090\1\1\|
+~A|E18EPI010|graduación\arranque\accesorio\inmersión\lámpara\sodio\replanteo\conexión\pintura\silicona\proyección\inundación\cierre\horquilla\reflejo\templado\caliente\construcción\inyección\poliuretano\simétrico\fijación\vapor\vidrio\ánodo\galvanizar\equipo\anclaje\luz\aluminio\resina\acero\protección\fundición\junta\instalación\alto\presión\|
+~C|E18EPI110|ud|PROY.SIMÉ.INUNDACIÓN LUZ HALGNUR. 400 W|185.14|310100|0|
+~D|E18EPI110|O01OB200\1\1\P16AB110\1\1\P16CD110\1\1\P01DW090\1\1\|
+~A|E18EPI110|replanteo\lámpara\inmersión\accesorio\conexión\proyección\graduación\arranque\pintura\halogenuro\inyección\horquilla\cierre\silicona\caliente\simétrico\templado\anclaje\protección\fijación\resina\equipo\poliuretano\aluminio\vidrio\junta\luz\galvanizar\acero\metal\construcción\fundición\instalación\inundación\reflejo\ánodo\|
+~C|E18EPI380|ud|PROY.ASIM.INUNDACIÓN LUZ HALGNUR. 400W|185.14|310100|0|
+~D|E18EPI380|O01OB200\1\1\P16AB380\1\1\P16CD110\1\1\P01DW090\1\1\|
+~A|E18EPI380|inyección\halogenuro\graduación\replanteo\conexión\asimétrico\inundación\proyección\caliente\templado\reflejo\horquilla\cierre\silicona\junta\pintura\inmersión\arranque\equipo\resina\poliuretano\ánodo\anclaje\luz\fundición\vidrio\fijación\protección\galvanizar\metal\instalación\acero\construcción\accesorio\clase\lámpara\aluminio\|
+~C|E18EPI400|ud|PROY.ASIM.INUND.LUZ MASTERCOL. 150W Rx7S|181.47|310100|0|
+~D|E18EPI400|O01OB200\1\1\P16AB400\1\1\P16CD050\1\1\P01DW090\1\1\|
+~A|E18EPI400|replanteo\lámpara\inmersión\conexión\halogenuro\reflejo\proyección\accesorio\asimétrico\clase\inyección\graduación\pintura\silicona\templado\arranque\caliente\poliuretano\instalación\horquilla\ánodo\equipo\resina\anclaje\vidrio\aluminio\cierre\acero\metal\protección\fundición\junta\fijación\luz\construcción\galvanizar\|
+~C|E18EPS#||PROYECTORES SORPRESIVOS|217.24|310100|0|
+~D|E18EPS#|E18EPS010\1\2\E18EPS040\1\2\|
+~A|E18EPS#|proyección\|
+~C|E18EPS010|ud|PROYECTOR SIMÉ.SORPRESIVO 300 W.|32.54|310100|0|
+~D|E18EPS010|O01OB200\1\1\P16AA005\1\1\P16CA070\1\1\P01DW090\1\1\|
+~A|E18EPS010|halógeno\protección\silicona\cierre\templado\línea\pintura\conexión\replanteo\lámpara\proyección\inyección\anclaje\aluminio\junta\construcción\resina\poliuretano\vidrio\fundición\instalación\accesorio\graduación\|
+~C|E18EPS040|ud|PROYECTOR SIMÉ.SORPRESIVO 1500 W.|76.08|310100|0|
+~D|E18EPS040|O01OB200\1\1\P16AA030\1\1\P16CA100\1\1\P01DW090\1\1\|
+~A|E18EPS040|pintura\cierre\templado\línea\inyección\conexión\halógeno\graduación\construcción\silicona\replanteo\instalación\proyección\junta\fundición\protección\aluminio\resina\anclaje\poliuretano\lámpara\vidrio\accesorio\|
+~C|O01OB200|h.|Oficial 1ª electricista|17.51|140420|1|
+~A|O01OB200|electricidad\|
+~C|P01DW090|ud|Pequeño material|0.77|310100|3|
+~A|P01DW090|material\|
+~C|P16AA005|ud|Proy.simé.sorpresivo 300 W.|11.47|010504|3|
+~C|P16AA030|ud|Proy.simé.sorpresivo 1500 W.|47.82|010504|3|
+~C|P16AB010|ud|Proy.simé.inundación luz VSAP oval.70 W.|107.12|010504|3|
+~A|P16AB010|luz\ovalado\inundación\|
+~C|P16AB110|ud|Proy.simé.inundac.luz halgnur. 400W.|138.32|010504|3|
+~A|P16AB110|luz\|
+~C|P16AB380|ud|Proy.asim.inundación luz Halgnur. 400 W.|138.32|010504|3|
+~A|P16AB380|inundación\luz\|
+~C|P16AB400|ud|Proy.asim.inund.luz Mastercol. 150W Rx7S|137.28|010504|3|
+~A|P16AB400|luz\|
+~C|P16CA070|ud|Lámp.halóg.lineal 230 V. 300 W.|2.79|310100|3|
+~A|P16CA070|línea\|
+~C|P16CA100|ud|Lámp.halóg.lineal 230 V. 1500 W.|9.98|310100|3|
+~A|P16CA100|línea\|
+~C|P16CD050|ud|Lámp.halgnur.Mastercolour 150 W.Rx7S|25.91|310100|3|
+~C|P16CD110|ud|Lámp.halgnur.tub. 400 W.|28.54|310100|3|
+~C|P16CE010|ud|Lámp. VSAP ovoide 70 W.|11.7|310100|3|
+~T|E18EPI010|Proyector simétrico construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, reflector de aluminio anodizado, con cierre de vidrio templado y junta de silicona, grado de protección IP 65/clase I, horquilla de fijación de acero galvanizado por inmersión en caliente,  con lámpara de vapor de sodio alta presión ovoide de 70 W. y equipo de arranque. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPI110|Proyector simétrico construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, reflector de aluminio anodizado, con cierre de vidrio templado y junta de silicona, grado de protección IP 65/clase I, horquilla de fijación de acero galvanizado por inmersión en caliente,  con lámpara de halogenuro metálico tubular de 400 W. y equipo de arranque. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPI380|Proyector asimétrico construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, reflector de aluminio anodizado, con cierre de vidrio templado y junta de silicona, grado de protección IP 65 clase I, horquilla de fijación de acero galvanizado por inmersión en caliente,  con 1 lámpara de halogenuro metálico tubular de 400 W. y equipo de arranque. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPI400|Proyector asimétrico construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, reflector de aluminio anodizado, con cierre de vidrio templado y junta de silicona, grado de protección IP 65 clase I, horquilla de fijación de acero galvanizado por inmersión en caliente,  con 1 lámpara de halogenuro metálico Mastercolour de 150 W. Rx7S y equipo de arranque. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS010|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 54/Clase I, con lámpara halógena lineal de 300 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS040|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 55/clase I con lámpara halógena lineal de 1.500 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~M|E18EPS#\E18EPS010|1\1\1\|2||
+~M|E18EPS#\E18EPS040|1\1\2\|2||
+~M|E18EPI#\E18EPI010|1\2\1\|3||
+~M|E18EPI#\E18EPI110|1\2\2\|3||
+~M|E18EPI#\E18EPI380|1\2\3\|4||
+~M|E18EPI#\E18EPI400|1\2\4\|4||

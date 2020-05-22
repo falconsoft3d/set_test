@@ -1,0 +1,148 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|%10||desgaste de maquinaria|10|040520|0|
+~C|%6||impuesto|6|040520|0|
+~C|1#||MOVIMIENTO DE TIERRAS|2676.29|310320|0|
+~D|1#|E02AM010\1\61.52\E02EM030\1\66.38\E02PM030\1\6.93\E02TT040\1\168\%10\1\0.1\|
+~C|2#||RED HORIZONTAL DE SANEAMIENTO|342.47|310320|0|
+~D|2#|E03ALA010\1\3\E03OEH010\1\9\E03OEP140\1\2.58\|
+~C|3#||CIMENTACIONES|903.79|310320|0|
+~D|3#|E04CM040\1\1.24\E04CA060\1\5.99\|
+~C|4#||ESTRUCTURAS|2684.36|310100|0|
+~D|4#|E05HSM010\1\1\E05HSF010\1\13.33\E05HLA010\1\10\|
+~C|5#||AISLAMIENTOS|1102.2|310320|0|
+~D|5#|E10ATP180\1\110\|
+~C|6#||IMPERMEABILIZACIONES|199.54|310320|0|
+~D|6#|E10INR090\1\22\|
+~C|7#||REVESTIMIENTOS|9472.73|310320|0|
+~D|7#|E08PEM010\1\883.65\|
+~C|8#||PINTURAS|356.63|310320|0|
+~D|8#|E27MB030\1\42.71\|
+~C|A01A030|m3|Pasta de yeso negro|75.28|310320|3|
+~C|A01A040|m3|Pasta de yeso blanco|84.6|310320|3|
+~C|E02AM010|m2|Desbroce y limpieza de terreno a máquina|0.45|310320|0|
+~D|E02AM010|O01OA070\1\0.005\M05PN010\1\0.01\|
+~C|E02EM030|m3|Excavación vaciado a máquina terreno compacto|12.14|310320|0|
+~D|E02EM030|O01OA070\1\0.125\M05EN030\1\0.25\|
+~C|E02PM030|m3|Excavación pozos a máquina terreno compacto|12.62|310320|0|
+~D|E02PM030|O01OA070\1\0.13\M05EN030\1\0.26\|
+~C|E02TT040|m3|Transporte vertedero dist. <20km carga mecánica|9|310320|0|
+~D|E02TT040|M05EN030\1\0.04\M07CB030\1\0.19\|
+~C|E03ALA010|ud|Arqueta ladri.pie/bajante 38x38x50cm|42.29|310320|0|
+~D|E03ALA010|O01OA030\1\1.6\O01OA060\1\0.8\%6\1\0.06\P01HM020\1\0.039\P01LT020\1\0.045\|
+~C|E03OEH010|m.|Tubo hm machihembrado d=150 mm|19.73|310320|0|
+~D|E03OEH010|O01OA030\1\0.4\O01OA060\1\0.4\P01AA020\1\0.232\P01LT020\1\0.004\P02THM010\1\1\|
+~C|E03OEP140|m.|Tubo pvc comp. j.elás.sn4 c.teja  200mm|14.74|310320|0|
+~D|E03OEP140|O01OA030\1\0.15\O01OA060\1\0.15\P02TVO110\1\1\|
+~C|E04AB020|kg|Acero corrugado b 500 s|0.81|310320|0|
+~D|E04AB020|O01OB030\1\0.013\O01OB040\1\0.013\P03AC200\1\1.1\|
+~C|E04CA010|m3|H.arm. ha-25/p/20/i  v.manual|127.8|310320|0|
+~D|E04CA010|E04CM050\1\1\E04AB020\1\40\|
+~C|E04CA060|m3|H.arm. ha-25/p/20/i  v. grúa|132.59|310320|0|
+~D|E04CA060|E04CA010\1\1\M02GT120\1\0.2\|
+~C|E04CM040|m3|Horm.limpieza hm-20/p/20/i  v.man|88.37|310320|0|
+~D|E04CM040|O01OA070\1\0.6\P01HM010\1\1.15\|
+~C|E04CM050|m3|Horm. ha-25/p/20/i  v. manual|95.4|310320|0|
+~D|E04CM050|O01OA030\1\0.36\O01OA070\1\0.36\M11HV120\1\0.36\P01HA010\1\1.15\|
+~C|E05HLA010|m3|H.A.HA-25/P/20 E.MADERA LOSAS|256.6|310100|0|
+~D|E05HLA010|E05HLM015\1\1\E05HLE010\1\10\E04AB020\1\85\|
+~A|E05HLA010|armadura\hormigón\vibración\consistencia\norma\colocación\plástico\central\losa\vertedero\madero\encofrar\plano\elaboración\|
+~C|E05HLE010|m2|ENCOFR. MADERA LOSAS 4 POST.|10.76|310100|0|
+~D|E05HLE010|O01OB010\1\0.15\O01OB020\1\0.15\M13EM030\1\1.05\P01EM290\1\0.018\P01UC030\1\0.08\P03AA020\1\0.15\M13CP100\1\0.01\|
+~A|E05HLE010|confeccionar\losa\encofrar\norma\tablero\madero\previo\plano\pino\desencofrante\|
+~C|E05HLM015|m3|HORM. P/ARMAR HA-25/P/20 L.PL.|80.15|010504|0|
+~D|E05HLM015|O01OB010\1\0.125\O01OB020\1\0.125\O01OB025\1\0.1\M02GT002\1\0.1\P01HA010\1\1\|
+~A|E05HLM015|hormigón\central\norma\colocación\vibración\losa\elaboración\plano\vertedero\|
+~C|E05HSF010|m2|Encofrado metálico en pilares|2.16|310320|0|
+~D|E05HSF010|O01OB010\1\0.07\O01OB020\1\0.07\P01UC030\1\0.05\P03AA020\1\0.05\|
+~C|E05HSM010|m3|Horm. p/armar ha-25/p/20/i  pilar|89.57|310320|0|
+~C|E08PEM010|m2|Guarnecido maestreado y enlucido|10.72|310320|0|
+~D|E08PEM010|O01OB110\1\0.6\O01OA070\1\0.05\A01A030\1\0.012\A01A040\1\0.003\P04RW060\1\0.215\|
+~C|E10ATP180|m2|Ais.térm.cub.p.roofmate sl-a-30|10.02|310320|0|
+~D|E10ATP180|O01OA030\1\0.05\O01OA050\1\0.05\P07TX190\1\1.05\|
+~C|E10INR090|m2|Imp.muros betún/caucho|9.07|310320|0|
+~D|E10INR090|O01OA030\1\0.16\O01OA050\1\0.16\P06BI037\1\2.5\|
+~C|E27MB030|m2|Barni.madera int.brillant.2 man.|8.35|310320|0|
+~D|E27MB030|O01OB230\1\0.25\O01OB240\1\0.25\P25MB010\1\0.25\|
+~C|I#||ESTUDIO COSTES INDIRECTOS|8805.06|310320|0|
+~D|I#|INDI01\1\1\INDI02\1\1\INDI03\1\2\INDI05\1\1\INDI10\1\1\INDI20\1\4\|
+~C|INDI01|M|Jefe de obra|1983.34|310320|1|
+~C|INDI02|M|Administrativo|1298.19|310320|1|
+~C|INDI03|M|Encargado|1514.55|310320|1|
+~C|INDI05|M|Guardián|100|310320|1|
+~C|INDI10||Servicios (luz, agua, etc.)|86.55|310320|0|
+~C|INDI20|M|Grúa|576.97|310320|2|
+~C|M02GT002|h.|Grúa pluma 30 m./0,75 t.|18.84|010504|2|
+~A|M02GT002|grúa\pluma\|
+~C|M02GT120|h.|Grúa torre automontante 20 txm.|23.93|310320|2|
+~C|M05EN030|h.|Excav.hidráulica neumáticos 100 cv|42|310320|2|
+~C|M05PN010|h.|Pala cargadora neumáticos 85 cv/1,2m3|38|310320|2|
+~C|M07CB030|h.|Camión basculante 6x4 20 t.|38.5|310320|2|
+~C|M11HV120|h.|Aguja eléct.c/convertid.gasolina d=79mm.|4|310320|2|
+~C|M13CP100|ud|Puntal telesc. normal  1,75-3,10|15.28|310100|2|
+~A|M13CP100|puntal\|
+~C|M13EM030|m2|Tablero encofrar 22 mm. 4 p.|2.03|310100|2|
+~A|M13EM030|tablero\encofrar\|
+~C|O01OA030|h.|Oficial primera|15.14|310320|1|
+~C|O01OA050|h.|Ayudante|13.75|310320|1|
+~C|O01OA060|h.|Peón especializado|13.19|310320|1|
+~C|O01OA070|h.|Peón ordinario|13.09|310320|1|
+~C|O01OB010|h.|Oficial 1ª encofrador|15.16|310320|1|
+~C|O01OB020|h.|Ayudante encofrador|14.22|310320|1|
+~C|O01OB025|h.|Oficial 1ª gruísta|17.24|140420|1|
+~C|O01OB030|h.|Oficial 1ª ferralla|15.16|310320|1|
+~C|O01OB040|h.|Ayudante ferralla|14.22|310320|1|
+~C|O01OB110|h.|Oficial yesero o escayolista|14.77|310320|1|
+~C|O01OB230|h.|Oficial 1ª pintura|14.66|310320|1|
+~C|O01OB240|h.|Ayudante pintura|13.41|310320|1|
+~C|P01AA020|m3|Arena de río 0/6 mm.|15.7|310320|3|
+~C|P01EM290|m3|Madera pino encofrar 26 mm.|214.2|010504|3|
+~A|P01EM290|pino\encofrar\madero\|
+~C|P01HA010|m3|Hormigón ha-25/p/20/i central|72.87|310320|3|
+~C|P01HM010|m3|Hormigón hm-20/p/20/i central|70.02|310320|3|
+~C|P01HM020|m3|Hormigón hm-20/p/40/i central|70.02|310320|3|
+~C|P01LT020|mud|Ladrillo perfora. tosco 25x12x7|60.1|310320|3|
+~C|P01UC030|kg|Puntas 20x100|1|310320|3|
+~C|P02THM010|m.|Tubo hm j.machihembrada d=150mm|4.51|310320|3|
+~C|P02TVO110|m.|Tub.PVC liso j.elástica SN4 D=200mm|10.49|310320|3|
+~C|P03AA020|kg|Alambre atar 1,30 mm.|0.95|310320|3|
+~C|P03AC200|kg|Acero corrugado b 500 s|0.39|310320|3|
+~C|P04RW060|m.|Guardavivos plástico y metal|0.26|310320|3|
+~C|P06BI037|kg|Emulsión caucho asfalto emufal te|1.78|310320|3|
+~C|P07TX190|m2|P.polies.extr. roofmate-sl-a-30|8.16|310320|3|
+~C|P25MB010|kg|Pintura hidrófuga (barniz)|5.31|310320|3|
+~C|PARAPRUEBA_03##|||26543.07|310100|0|
+~D|PARAPRUEBA_03##|1\1\1\2\1\1\3\1\1\4\1\1\5\1\1\6\1\1\7\1\1\8\1\1\I\1\1\|
+~T|E02AM010|Desbroce y limpieza superficial del terreno por medios mecánicos, sin carga ni transporte al vertedero y con p.p. de medios auxiliares.|
+~T|E02EM030|Excavación en zanjas, en terrenos compactos, por medios mecánicos, con extracción de tierras a los bordes, sin carga ni transporte al vertedero y con p.p. de medios auxiliares.|
+~T|E02PM030|Excavación en pozos en terrenos compactos, por medios mecánicos, con extracción de tierras a los bordes, sin carga ni transporte al vertedero, y con p.p. de medios auxiliares.|
+~T|E02TT040|Transporte de tierras al vertedero, a una distancia menor de 20 km., considerando ida y vuelta, con camión bañera basculante cargado a máquina, y con p.p. de medios auxiliares, considerando también la carga.|
+~T|E03ALA010|Arqueta a pie de bajante registrable, de 38x38x50 cm. de medidas interiores, construida con fábrica de ladrillo macizo tosco de 1/2 pie de espesor, recibido con mortero de cemento, colocado sobre solera de hormigón en masa HM-20/P/40/I, enfoscada y bruñida por el interior con mortero de cemento, con codo de PVC de 45º, para evitar el golpe de bajada en la solera, y con tapa de hormigón armado prefabricada, terminada y con p.p. de medios auxiliares, sin incluir la excavación, ni el relleno perimetral posterior.|
+~T|E03OEH010|Colector de saneamiento enterrado de hormigón en masa centrifugado de sección circular y diámetro 150 mm., con unión por junta machihembrada. Colocado en zanja, sobre una cama de arena de río de 10 cm. debidamente compactada y nivelada, con corchetes de ladrillo perforado tosco en las uniones recibidos con mortero de cemento 1/6 (M-40) y relleno lateral y superior hasta 10 cm. por encima de la generatriz con la misma arena; compactando ésta hasta los riñones. Con p.p. de medios auxiliares y sin incluir la excavación ni el tapado posterior de las zanjas.|
+~T|E03OEP140|Colector de saneamiento enterrado de PVC de pared compacta de color teja y rigidez 4 kN/m2; con un diámetro 200 mm. y de unión por junta elástica. Colocado en zanja, sobre una cama de arena de río de 10 cm. debidamente compactada y nivelada, relleno lateralmente y superiormente hasta 10 cm. por encima de la generatriz con la misma arena; compactando ésta hasta los riñones. Con p.p. de medios auxiliares y sin incluir la excavación ni el tapado posterior de las zanjas.|
+~T|E04CA060|Hormigón armado HA-25 N/mm2., Tmáx.20 mm., para ambiente normal, elaborado en central en relleno de zapatas y zanjas de cimentación, incluso armadura (40 kg./m3.), vertido con grúa, vibrado y colocado.  Según normas NTE-CSZ y EHE.|
+~T|E04CM040|Hormigón en masa HM-20 N/mm2., consistencia plástica, Tmáx.20 mm., para ambiente normal, elaborado en central para limpieza y nivelado de fondos de cimentación, incluso vertido por medios manuales y colocación.|
+~T|E05HLA010|Hormigón armado HA-25 N/mm2., Tmáx.20 mm., consistencia plástica, elaborado en central, en losas planas, i/p.p. de armadura (85 kg/m3) y encofrado de madera, vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EME, EHL y EHE.|
+~T|E05HLE010|Encofrado y desencofrado de losa armada plana con tablero de madera de pino de 22 mm., confeccionado previamente, considerando 4 posturas. Normas NTE-EME.|
+~T|E05HLM015|Hormigón para armar HA-25/P/20/I, elaborado en central, en losas planas, incluso vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EHL y EHE.|
+~T|E08PEM010|Guarnecido maestreado con yeso negro y enlucido con yeso blanco en paramentos verticales y horizontales de 15 mm. de espesor, con maestras cada 1,50 m. incluso formación de rincones, guarniciones de huecos, remates con pavimento, p.p. de guardavivos de plástico y metal y colocación de andamios, s/NTE-RPG, medido deduciendo huecos superiores a 2 m2.|
+~T|E10ATP180|Aislamiento térmico en azoteas mediante placas rígidas de poliestireno extruído tipo  Roofmate SL-A-30, de 30 mm., directamente sobre la membrana impermeabilizante, i/p.p. de corte y|
+~T|E10INR090|Impermeabilización por el exterior de muros de hormigón y estructuras a proteger posteriormente con un revestimiento impermeable monocomponente, consistente en una emulsión de betún/caucho exenta de disolventes, tipo: Emufal TE, extendida en dos capas de 1 a 1,5 kg/m2. cada una con brocha, llana dentada o "air-less", previo saneo, limpieza y humectación del soporte.|
+~T|E27MB030|Barnizado de carpintería de madera interior o exterior con dos manos de barniz sintético brillante|
+~M|1#\E02AM010|1\1\|61.52|\Zona norte\1\3\3.5\\\Planta\1\8\3\\\Vía de acceso\1\3\2\\3\2*(3+5+2) * 0.5 - 2.98\1\\\\\Zona ajardinada\1\2\7\\|
+~M|1#\E02EM030|1\2\|66.38|3\(b+c)/2*d\1\17\9\0.5\3\(b+c)/2*d\1\12\12\0.7\3\(b+c)/2*d\1\8\4\0.6\3\2*(3+5+2) * 0.5 - 2.98\1\\\\3\(b+c)/2*d\1\9\3\0.5\1\Subtotal explanación\\\\\\Zapata 1 zona sur\1\2\0.34\0.9\\Zapata 2 zona sur\1\3\0.34\0.9\\Zapata 3 zona sur\1\2.5\0.34\0.9\\Zapata 4 zona sur\1\3.5\0.34\0.9\\Zapata 5 zona norte\1\2\0.55\0.9\\Zapata 6 zona norte\1\3\0.55\0.9\\Zapata 7 zona norte\1\3.5\0.55\0.9\1\Subtotal zapatas\\\\\2\Subtotal acumulado\\\\\\Zócalo norte\1\12\0.65\0.9\\Zócalo sur\1\5\0.55\0.9\\Zócalo oeste\1\5\0.55\0.9\1\Subtotal zócalos\\\\\\Ampliación de jardín\1\6\3\0.3\\Valla de jardín\1\3\0.7\0.4\\Ampliación de jardín\1\2\3\0.25\\Ampliación de jardín\1\4\3\0.88\|
+~M|1#\E02PM030|1\3\|6.93|\Pozos / arquetas\1\1.5\1.5\1.1\\Pozos / arquetas\1\1\1\2\\Pozos / arquetas\1\0.7\0.7\5\|
+~M|1#\E02TT040|1\4\|168|\Explanación\120\\\\\Zanjas\13\\\\\Pozos\10\\\\\Ampliación\25\\\\|
+~M|2#\E03ALA010|2\1\|3|\Saneamientos\3\\\\|
+~M|2#\E03OEH010|2\2\|9|\Saneamientos\1\9\\\|
+~M|2#\E03OEP140|2\3\|2.58|\Saneamientos\1\2.58\\\|
+~M|3#\E04CM040|3\1\|1.24|\Garaje\1\7.15\0.1\1\\Garaje\1\5.2\0.1\1\|
+~M|3#\E04CA060|3\2\|5.99|\Zocalos\1\10\0.18\0.73\\Zocalos\1\10\0.18\0.6\\Zapatas\4\1.5\1\0.45\\Zapatas\2\1\1\0.45\|
+~M|4#\E05HSM010|4\1\|1||
+~M|4#\E05HSF010|4\2\|13.33||
+~M|4#\E05HLA010|4\3\|10||
+~M|5#\E10ATP180|5\1\|110|\Cubierta\1\11\10\\|
+~M|6#\E10INR090|6\1\|22|\Muros\1\44\\0.5\|
+~M|7#\E08PEM010|7\1\|883.65|\Distribuidor\1\23.38\\2.7\\Distribuidor\1\20\\2.7\\Salón\1\22.6\\2.7\\Salón\1\43\\2.7\\Comedor\1\14\\2.7\\Comedor\1\9\\2.7\\Trastero\1\8.22\\2.7\\Trastero\1\8.22\\2.7\\Garaje\1\17.6\\2.7\\Garaje\1\17.6\\2.7\\Hall\1\10.5\\2.7\\Hall\1\10.5\\2.7\\Esc. Baja\1\14.1\\2.7\\Esc. Baja\1\14.1\\2.7\\Dormitorio 1\1\12\\2.7\\Dormitorio 1\1\17\\2.7\\Dormitorio 2\1\13.36\\2.7\\Dormitorio 2\1\15\\2.7\\Dormitorio 3\1\13.16\\2.7\\Dormitorio 3\1\11\\2.7\\Faldon ext.\1\6\\0.2\\Faldon ext.\1\6\\0.2\\Terraza 1\1\6.78\\2.4\\Terraza 1\1\6.78\\2.4\|
+~M|8#\E27MB030|8\1\|42.71|\Habitación 1\1\3\\2.5\\Habitación 2\1\2\\2.5\\Habitación 3\1\1.5\\2.5\\Puertas\14\0.9\\2.1\|
+~M|I#\INDI10|9\5\|1||

@@ -1,0 +1,81 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|%|ud|desperdicio|10|040520|0|
+~C|%20||20%|20|040520|0|
+~C|DEMOB6##|||8675.6|310100|0|
+~D|DEMOB6##|E09ICC\1\1\E27EET\1\1\|
+~C|E09ICC#||TEJA CERÁMICA CURVA|8493.5|310100|0|
+~D|E09ICC#|E09ICC010\1\10\E09ICC020\1\100\E09ICC030\1\50\E09ICC040\1\20\|
+~A|E09ICC#|teja\curva\cerámico\|
+~C|E09ICC010|m2|CUB. TEJA CURVA S/ONDULINE|42.3|310100|0|
+~D|E09ICC010|O01OA030\1\1\O01OA050\1\1\P05FO010\1\1.1\P05FO090\1\15\P05TC010\1\35\O%\1\0.1\|
+~A|E09ICC010|medio\teja\taco\clavo\caballete\listón\seguridad\lima\espira\pieza\cubierta\soporte\curva\cerámico\auxiliar\fijación\estructura\colocación\placa\anclaje\especial\rojo\|
+~C|E09ICC020|m2|CUB. TEJA CURVA S/TABLERO M-H|46.04|310100|0|
+~D|E09ICC020|O01OA030\1\1.15\O01OA050\1\1.15\P05TC010\1\35\P01LH020\1\0.034\P01LG180\1\4\%\1\0.1\|
+~A|E09ICC020|maestra\caballete\horizontal\lima\medio\tablero\teja\seguridad\ligero\capa\auxiliar\proyección\compresión\tabiquería\riostra\remate\cerámico\curva\cubierta\unión\mortero\río\ladrillo\rojo\areno\cemento\|
+~C|E09ICC030|m2|CUB. TEJA CURVA S/NERVOMETAL|43.83|310100|0|
+~D|E09ICC030|O01OA030\1\1\O01OA050\1\1\P05TC010\1\35\P01LH010\1\0.042\P05EW090\1\1.2\O01OA030%\1\0.1\|
+~A|E09ICC030|riostra\caballete\compresión\curva\fleje\proyección\horizontal\medio\tablero\seguridad\auxiliar\capa\cubierta\teja\lima\hormigón\tabiquería\dosificación\cemento\mortero\río\ladrillo\remate\areno\cerámico\|
+~C|E09ICC040|m2|TEJA CERÁ. CURVA ROJA 40x19|63.75|310100|0|
+~D|E09ICC040|O01OA030\1\2\O01OA050\1\2\%\1\0.1\P05TC010\1\35\|
+~A|E09ICC040|teja\curva\cubrición\lima\medio\cerámico\mortero\río\seguridad\rojo\auxiliar\areno\cemento\caballete\|
+~C|E27EET#||TEMPLE GOTELÉ|182.1|310100|0|
+~D|E27EET#|E27EET010\1\10\E27EET020\1\15\E27EET030\1\20\E27EET040\1\10\%20\1\0.2\|
+~A|E27EET#|gota\temple\|
+~C|E27EET010|m2|PINTURA GOTELÉ TEMPLE BLANCO|2.21|310100|0|
+~D|E27EET010|O01OB230\1\0.06\O01OB240\1\0.06\P25CT050\1\0.85\P25WW220\1\0.08\|
+~A|E27EET010|horizontal\paramento\aparejo\gota\fino\pintura\vertical\lavadero\blanco\proyección\temple\pasta\|
+~C|E27EET020|m2|PINT.GOTELÉ TEMPLE BLANCO 1ªCAL|3.02|310100|0|
+~D|E27EET020|O01OB230\1\0.083\O01OB240\1\0.083\P25CT050\1\1.1\P25WW220\1\0.08\|
+~A|E27EET020|capa\aparejo\gota\temple\pintura\fino\horizontal\paramento\vertical\tapa\cal\lavadero\pasta\blanco\proyección\|
+~C|E27EET030|m2|PINTURA GOTELÉ TEMPLE COLOR|2.57|310100|0|
+~D|E27EET030|O01OB230\1\0.07\O01OB240\1\0.07\P25CT060\1\0.85\P25WW220\1\0.08\|
+~A|E27EET030|proyección\gota\horizontal\temple\claro\pintura\aparejo\paramento\vertical\lavadero\pasta\fino\color\|
+~C|E27EET040|m2|PINT.GOTELÉ TEMPLE COLOR 1ªCAL.|3.29|310100|0|
+~D|E27EET040|O01OB230\1\0.09\O01OB240\1\0.09\P25CT060\1\1.1\P25WW220\1\0.1\|
+~A|E27EET040|cal\aparejo\horizontal\proyección\fino\pintura\claro\temple\lavadero\color\pasta\vertical\tapa\paramento\capa\gota\|
+~C|O%||10%|10|040520|0|
+~C|O01OA030|h.|Oficial primera|10|040520|1|
+~C|O01OA030%||a un codigo|10|040520|0|
+~C|O01OA050|h.|Ayudante|15|040520|1|
+~A|O01OA050|ayudante\|
+~C|O01OB230|h.|Oficial 1ª pintura|17.11|140420|1|
+~A|O01OB230|pintura\|
+~C|O01OB240|h.|Ayudante pintura|16.37|140420|1|
+~A|O01OB240|ayudante\pintura\|
+~C|P01LG180|ud|Rasillón cerámico m-h 100x30x3,5|0.55|310100|3|
+~A|P01LG180|rasillón\cerámico\|
+~C|P01LH010|mud|Ladrillo h. sencillo 24x12x4|122.4|310100|3|
+~A|P01LH010|ladrillo\sencillo\|
+~C|P01LH020|mud|Ladrillo h. doble 25x12x8|63.1|310100|3|
+~A|P01LH020|doble\ladrillo\|
+~C|P05EW090|m2|Fleje Nervometal 0,5 mm.|3.28|310100|3|
+~A|P05EW090|fleje\|
+~C|P05FO010|m2|Placa Onduline bajo teja 235|4.68|310100|3|
+~A|P05FO010|placa\teja\|
+~C|P05FO090|ud|Clavo taco BT 50 Onduline|0.06|310100|3|
+~A|P05FO090|clavo\taco\|
+~C|P05TC010|ud|Teja curva roja 40x19|0.25|310100|3|
+~A|P05TC010|teja\curva\rojo\|
+~C|P25CT050|kg|Pasta temple de picar blanco|0.15|310100|3|
+~A|P25CT050|pasta\blanco\picar\temple\|
+~C|P25CT060|kg|Pasta temple de picar mas color|0.18|310100|3|
+~A|P25CT060|picar\pasta\color\temple\|
+~C|P25WW220|ud|Pequeño material|0.82|310100|3|
+~A|P25WW220|material\|
+~T|E09ICC010|Cubierta de teja cerámica curva roja de 40x19 cm., fijada mediante la colocación de listones Onduline anclados al soporte por medio de clavos taco o clavos espiral sobre placa Onduline bajo teja 235, clavada a la estructura de cubierta, i/p.p. de piezas especiales, caballetes y limas, medios auxiliares y elementos de seguridad, s/NTE-QTT-11, medida en verdadera magnitud.|
+~T|E09ICC020|Cubierta formada con tabicones aligerados de ladrillo H/D, recibidos con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/6 (M-40) y separados 1 m. con maestra superior del mismo mortero, arriostrados transversalmente cada 2 m. aproximadamente según desnivel, para una altura media de 1 m. de cubierta, tablero machihembrado de 100x30x4,50 cm., capa de compresión de 30 mm. de idéntico mortero y teja cerámica curva roja de 40x19 cm. recibida con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/8 (M-20), i/p.p. de limas, caballetes, emboquillado, remates, medios auxiliares y elementos de seguridad, s/NTE-QTT, medida en proyección horizontal.|
+~T|E09ICC030|Cubierta formada por tabiquillos palomeros de ladrillo H/S recibidos con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/6 (M-40), separados 80 cm.,  arriostrados transversalmente cada 2 m. aproximadamente según desnivel, para una altura media de 1 m. de cubierta, tablero de fleje tipo Nervometal de 0,5 mm., capa de compresión de 3 cm. de espesor de hormigón de 330 kg. de cemento/m3. de dosificación, y teja cerámica curva de 40x19 cm.,  recibida con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/8 (M-20), i/p.p. de caballetes, emboquillado, remates, limas, medios auxiliares y elementos de seguridad, s/NTE-QTT-11, medida en proyección horizontal.|
+~T|E09ICC040|Cubrición de teja cerámica curva de 40x19 cm. recibida con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/8 (M-20), i/p.p. de limas, caballete y emboquillado, medios auxiliares y elementos de seguridad, s/NTE-QTT-11, medida en verdadera magnitud.|
+~T|E27EET010|Pintura gotelé blanco en paramentos verticales y horizontales, incluso aparejo, plastecido y proyectado de gota fina y tupida no lavable, según NTE-RPP-20.|
+~T|E27EET020|Pintura gotelé blanco en paramentos verticales y horizontales, incluso tapado, aparejo, plastecido y proyectado de dos capas de gota fina y tupida no lavable.|
+~T|E27EET030|Pintura gotelé en colores claros, sobre paramentos verticales y horizontales, incluso aparejo, plastecido y proyectado de gota fina y tupida no lavable.|
+~T|E27EET040|Pintura gotelé en colores claros,  en paramentos verticales y horizontales, incluso tapado, aparejo, plastecido y proyectado de dos capas de gota fina y tupida no lavable.|
+~M|E09ICC#\E09ICC010|1\1\|10||
+~M|E09ICC#\E09ICC020|1\2\|100||
+~M|E09ICC#\E09ICC030|1\3\|50||
+~M|E09ICC#\E09ICC040|1\4\|20||
+~M|E27EET#\E27EET010|2\1\|10||
+~M|E27EET#\E27EET020|2\2\|15||
+~M|E27EET#\E27EET030|2\3\|20||
+~M|E27EET#\E27EET040|2\4\|10||

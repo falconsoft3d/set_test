@@ -1,0 +1,62 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|DEMOB3##|||3956.98|310100|0|
+~D|DEMOB3##|E18EPG\1\1\E18EPS\1\1\|
+~C|E18EPG#||PROYECTORES GASOLINERAS|3316.7|310100|0|
+~D|E18EPG#|E18EPG010\1\10\E18EPG020\1\1\E18EPG030\1\2\E18EPG040\1\2\|
+~A|E18EPG#|proyección\|
+~C|E18EPG010|ud|PROY.SIMÉ.GASOLINERA HALGNUR. 250W.|100|310100|0|
+~A|E18EPG010|simétrico\conexión\equipo\bisagra\lámpara\mate\endurecer\replanteo\cristal\montaje\calidad\caliente\reflejo\silicona\proyección\accesorio\armadura\halogenuro\goma\empotrable\alto\ánodo\galvanizar\inmersión\chapa\aluminio\eléctrico\acero\anclaje\estructura\inoxidable\metal\térmico\laca\instalación\junta\falso\techo\blanco\|
+~C|E18EPG020|ud|PROY.SIMÉ.GASOLINERA HALGNUR. 400W.|475.82|310100|0|
+~D|E18EPG020|O01OB200\1\1\P16AC020\1\1\P16CD110\1\1\P01DW090\1\1\|
+~A|E18EPG020|halogenuro\metal\silicona\accesorio\inmersión\bisagra\lámpara\mate\endurecer\replanteo\empotrable\armadura\calidad\conexión\reflejo\proyección\montaje\equipo\cristal\caliente\falso\simétrico\térmico\eléctrico\anclaje\aluminio\goma\ánodo\alto\blanco\acero\chapa\laca\galvanizar\instalación\junta\techo\inoxidable\estructura\|
+~C|E18EPG030|ud|PROY.ASIM.GASOLINERA HALGNUR. 250W.|444.62|310100|0|
+~D|E18EPG030|O01OB200\1\1\P16AC030\1\1\P16CD100\1\1\P01DW090\1\1\|
+~A|E18EPG030|acero\armadura\bisagra\cristal\mate\replanteo\conexión\inmersión\empotrable\calidad\caliente\reflejo\silicona\proyección\accesorio\montaje\endurecer\lámpara\asimétrico\anclaje\halogenuro\metal\chapa\aluminio\eléctrico\ánodo\falso\térmico\equipo\alto\goma\inoxidable\galvanizar\laca\instalación\junta\techo\blanco\estructura\|
+~C|E18EPG040|ud|PROY.ASIMÉ.GASOLINERA HALGNUR. 400W.|475.82|310100|0|
+~D|E18EPG040|O01OB200\1\1\P16AC040\1\1\P16CD110\1\1\P01DW090\1\1\|
+~A|E18EPG040|laca\goma\inmersión\bisagra\lámpara\mate\endurecer\caliente\conexión\halogenuro\calidad\reflejo\silicona\proyección\accesorio\empotrable\montaje\cristal\armadura\replanteo\acero\chapa\aluminio\instalación\eléctrico\alto\ánodo\inoxidable\anclaje\galvanizar\estructura\metal\techo\falso\junta\térmico\blanco\asimétrico\equipo\|
+~C|E18EPS#||PROYECTORES SORPRESIVOS|640.28|310100|0|
+~D|E18EPS#|E18EPS010\1\2\E18EPS020\1\2\E18EPS030\1\4\E18EPS040\1\4\|
+~A|E18EPS#|proyección\|
+~C|E18EPS010|ud|PROYECTOR SIMÉ.SORPRESIVO 300 W.|20|040520|0|
+~A|E18EPS010|halógeno\protección\silicona\cierre\templado\línea\pintura\conexión\replanteo\lámpara\proyección\inyección\anclaje\aluminio\junta\construcción\resina\poliuretano\vidrio\fundición\instalación\accesorio\graduación\|
+~C|E18EPS020|ud|PROYECTOR SIMÉ.SORPRESIVO 500 W.|15|040520|0|
+~A|E18EPS020|construcción\replanteo\graduación\pintura\halógeno\conexión\inyección\línea\cierre\instalación\accesorio\templado\poliuretano\lámpara\proyección\vidrio\resina\anclaje\aluminio\fundición\silicona\protección\junta\|
+~C|E18EPS030|ud|PROYECTOR SIMÉ.SORPRESIVO 1000 W.|66.49|310100|0|
+~D|E18EPS030|O01OB200\1\1\P16AA020\1\1\P16CA090\1\1\P01DW090\1\1\|
+~A|E18EPS030|halógeno\pintura\proyección\replanteo\graduación\inyección\línea\templado\silicona\protección\cierre\resina\lámpara\conexión\poliuretano\junta\anclaje\aluminio\construcción\fundición\instalación\accesorio\vidrio\|
+~C|E18EPS040|ud|PROYECTOR SIMÉ.SORPRESIVO 1500 W.|76.08|310100|0|
+~D|E18EPS040|O01OB200\1\1\P16AA030\1\1\P16CA100\1\1\P01DW090\1\1\|
+~A|E18EPS040|pintura\cierre\templado\línea\inyección\conexión\halógeno\graduación\construcción\silicona\replanteo\instalación\proyección\junta\fundición\protección\aluminio\resina\anclaje\poliuretano\lámpara\vidrio\accesorio\|
+~C|O01OB200|h.|Oficial 1ª electricista|17.51|140420|1|
+~A|O01OB200|electricidad\|
+~C|P01DW090|ud|Pequeño material|0.77|310100|3|
+~A|P01DW090|material\|
+~C|P16AA020|ud|Proy.simé.sorpresivo 1000 W.|40.63|010504|3|
+~C|P16AA030|ud|Proy.simé.sorpresivo 1500 W.|47.82|010504|3|
+~C|P16AC020|ud|Proy.simé.gasolinera halgnur. 400W.|429|010504|3|
+~C|P16AC030|ud|Proy.asim.gasolinera halgnur. 250W.|397.8|010504|3|
+~C|P16AC040|ud|Proy.asim.gasolinera halgnur. 400W.|429|010504|3|
+~C|P16CA090|ud|Lámp.halóg.lineal 230 V. 1000 W.|7.58|310100|3|
+~A|P16CA090|línea\|
+~C|P16CA100|ud|Lámp.halóg.lineal 230 V. 1500 W.|9.98|310100|3|
+~A|P16CA100|línea\|
+~C|P16CD100|ud|Lámp.halgnur.tub. 250 W.|28.54|310100|3|
+~C|P16CD110|ud|Lámp.halgnur.tub. 400 W.|28.54|310100|3|
+~T|E18EPG010|Proyector rectangular simétrico para empotrar en falso techo, de alta eficiencia y bajo deslumbramiento. Armadura de chapa galvanizada y estructura lacada en blanco, reflector de aluminio anodizado mate de alta calidad, cristal endurecido térmicamente con bisagras de apertura hacia abajo de acero inoxidable, junta de goma de silicona, dispositivo de montaje de acero galvanizado por inmersión en caliente IP 21/Clase I. Con lámpara de halogenuros metálicos tubular de 250 W. y equipo eléctrico incorporado. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPG020|Proyector rectangular simétrico para empotrar en falso techo, de alta eficiencia y bajo deslumbramiento. Armadura de chapa galvanizada y estructura lacada en blanco, reflector de aluminio anodizado mate de alta calidad, cristal endurecido térmicamente con bisagras de apertura hacia abajo de acero inoxidable, junta de goma de silicona, dispositivo de montaje de acero galvanizado por inmersión en caliente IP 21/Clase I. Con lámpara de halogenuros metálicos tubular de 400 W. y equipo eléctrico incorporado. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPG030|Proyector rectangular asimétrico para empotrar en falso techo, de alta eficiencia y bajo deslumbramiento. Armadura de chapa galvanizada y estructura lacada en blanco, reflector de aluminio anodizado mate de alta calidad, cristal endurecido térmicamente con bisagras de apertura hacia abajo de acero inoxidable, junta de goma de silicona, dispositivo de montaje de acero galvanizado por inmersión en caliente IP 21/Clase I. Con lámpara de halogenuros metálicos tubular de 250 W. y equipo eléctrico incorporado. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPG040|Proyector rectangular asimétrico para empotrar en falso techo, de alta eficiencia y bajo deslumbramiento. Armadura de chapa galvanizada y estructura lacada en blanco, reflector de aluminio anodizado mate de alta calidad, cristal endurecido térmicamente con bisagras de apertura hacia abajo de acero inoxidable, junta de goma de silicona, dispositivo de montaje de acero galvanizado por inmersión en caliente IP 21/Clase I. Con lámpara de halogenuros metálicos tubular de 400 W. y equipo eléctrico incorporado. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS010|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 54/Clase I, con lámpara halógena lineal de 300 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS020|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 55/clase I con lámpara halógena lineal de 500 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS030|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 55/clase I con lámpara halógena lineal de 1.000 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~T|E18EPS040|Proyector construido en fundición inyectada de aluminio, pintado con resinas de poliuretano, con cierre de vidrio templado y junta de silicona, grado de protección IP 55/clase I con lámpara halógena lineal de 1.500 W. Instalado, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~M|E18EPG#\E18EPG010|1\1\|10||
+~M|E18EPG#\E18EPG020|1\2\|1||
+~M|E18EPG#\E18EPG030|1\3\|2||
+~M|E18EPG#\E18EPG040|1\4\|2||
+~M|E18EPS#\E18EPS010|2\1\|2||
+~M|E18EPS#\E18EPS020|2\2\|2||
+~M|E18EPS#\E18EPS030|2\3\|4||
+~M|E18EPS#\E18EPS040|2\4\|4||

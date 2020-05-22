@@ -1,0 +1,78 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|DEMOB5##|||17488.34|310100|0|
+~D|DEMOB5##|E05HLM\1\1\E05HLA\1\1\|
+~C|E04AB020|kg|ACERO CORRUGADO B 500 S|10|040520|3|
+~A|E04AB020|cortador\obra\acero\colocación\doblado\corrugado\|
+~C|E05HLA#||HORMIGÓN ARMADO|16645.29|310100|0|
+~D|E05HLA#|E05HLA010\1\5\E05HLA020\1\6\E05HLA030\1\4\|
+~A|E05HLA#|hormigón\|
+~C|E05HLA010|m3|H.A.HA-25/P/20 E.MADERA LOSAS|1046.95|310100|0|
+~D|E05HLA010|E05HLM015\1\1\E05HLE010\1\10\E04AB020\1\85\|
+~A|E05HLA010|armadura\hormigón\vibración\consistencia\norma\colocación\plástico\central\losa\vertedero\madero\encofrar\plano\elaboración\|
+~C|E05HLA020|m3|H.A.HA-25/P/20 E.MAD.VIST.LOSAS|1175.65|310100|0|
+~D|E05HLA020|E05HLM015\1\1\E05HLE030\1\10\E04AB020\1\85\|
+~A|E05HLA020|colocación\vertedero\central\consistencia\elaboración\norma\armadura\losa\plástico\madero\plano\encofrar\hormigón\vibración\|
+~C|E05HLA030|m3|H.A.HA-25/P/20 E.MAD.LOSA INCL.|1089.16|310100|0|
+~D|E05HLA030|E05HLM020\1\1\E05HLE020\1\10\E04AB020\1\85\|
+~A|E05HLA030|plástico\elaboración\norma\armadura\vibración\consistencia\madero\vertedero\inclinación\encofrar\hormigón\central\losa\colocación\|
+~C|E05HLE010|m2|ENCOFR. MADERA LOSAS 4 POST.|11.61|310100|0|
+~D|E05HLE010|O01OB010\1\0.15\O01OB020\1\0.15\M13EM030\1\1.05\P01EM290\1\0.018\P01UC030\1\0.08\P03AA020\1\0.15\M13CP100\1\0.01\|
+~A|E05HLE010|confeccionar\losa\encofrar\norma\tablero\madero\previo\plano\pino\desencofrante\|
+~C|E05HLE020|m2|ENCOF. MADERA LOSA INCL. 4 P.|15.14|310100|0|
+~D|E05HLE020|O01OB010\1\0.25\O01OB020\1\0.25\M13EM030\1\1\P01EM280\1\0.02\P01UC030\1\0.15\P03AA020\1\0.5\M13CP100\1\0.01\|
+~A|E05HLE020|losa\madero\pino\tablero\inclinación\encofrar\desencofrante\norma\|
+~C|E05HLE030|m2|ENCOFR. MADERA LOSAS VISTO|24.48|310100|0|
+~D|E05HLE030|O01OB010\1\0.3\O01OB020\1\0.3\P01EM260\1\1.05\P01EM290\1\0.018\P01UC030\1\0.08\P03AA020\1\0.15\M13CP100\1\0.01\|
+~A|E05HLE030|desencofrante\losa\tablero\tabla\norma\previo\encofrar\pino\madero\confeccionar\unión\|
+~C|E05HLM#||HORMIGÓN|843.05|310100|0|
+~D|E05HLM#|E05HLM010\1\2\E05HLM015\1\3\E05HLM020\1\5\|
+~A|E05HLM#|hormigón\|
+~C|E05HLM010|m3|HORM. P/ARMAR HA-25 LOSA PLANA|80.85|310100|0|
+~D|E05HLM010|O01OB010\1\0.125\O01OB020\1\0.125\O01OB025\1\0.1\M02GT002\1\0.1\P01HA010\1\1\|
+~A|E05HLM010|colocación\elaboración\central\norma\vibración\vertedero\hormigón\plano\losa\|
+~C|E05HLM015|m3|HORM. P/ARMAR HA-25/P/20 L.PL.|80.85|310100|0|
+~D|E05HLM015|O01OB010\1\0.125\O01OB020\1\0.125\O01OB025\1\0.1\M02GT002\1\0.1\P01HA010\1\1\|
+~A|E05HLM015|hormigón\central\norma\colocación\vibración\losa\elaboración\plano\vertedero\|
+~C|E05HLM020|m3|HORM. P/ARMAR HA-25/P/20 L.IN.|87.76|310100|0|
+~D|E05HLM020|O01OB010\1\0.25\O01OB020\1\0.25\O01OB025\1\0.17\M02GT002\1\0.17\P01HA010\1\1\|
+~A|E05HLM020|elaboración\vertedero\colocación\losa\inclinación\hormigón\central\vibración\|
+~C|M02GT002|h.|Grúa pluma 30 m./0,75 t.|18.84|010504|2|
+~A|M02GT002|grúa\pluma\|
+~C|M13CP100|ud|Puntal telesc. normal  1,75-3,10|15.28|310100|2|
+~A|M13CP100|puntal\|
+~C|M13EM030|m2|Tablero encofrar 22 mm. 4 p.|2.03|310100|2|
+~A|M13EM030|tablero\encofrar\|
+~C|O01OB010|h.|Oficial 1ª encofrador|17.69|140420|1|
+~A|O01OB010|encofrar\|
+~C|O01OB020|h.|Ayudante encofrador|17.35|140420|1|
+~A|O01OB020|ayudante\encofrar\|
+~C|O01OB025|h.|Oficial 1ª gruísta|17.24|140420|1|
+~C|P01EM260|m2|Tabla machiembrada 2,5x9/16 de 22mm.|9.27|010504|3|
+~A|P01EM260|unión\tabla\|
+~C|P01EM280|m3|Madera pino encofrar 22 mm.|178.5|010504|3|
+~A|P01EM280|madero\encofrar\pino\|
+~C|P01EM290|m3|Madera pino encofrar 26 mm.|214.2|010504|3|
+~A|P01EM290|pino\encofrar\madero\|
+~C|P01HA010|m3|Hormigón HA-25/P/20/I central|72.87|310100|3|
+~A|P01HA010|central\hormigón\|
+~C|P01UC030|kg|Puntas 20x100|1|310100|3|
+~A|P01UC030|punta\|
+~C|P03AA020|kg|Alambre atar 1,30 mm.|0.95|010504|3|
+~A|P03AA020|alambre\|
+~T|E04AB020|Acero corrugado B 500 S, cortado, doblado, armado y colocado en obra, incluso p.p. de despuntes.  Según EHE.|
+~T|E05HLA010|Hormigón armado HA-25 N/mm2., Tmáx.20 mm., consistencia plástica, elaborado en central, en losas planas, i/p.p. de armadura (85 kg/m3) y encofrado de madera, vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EME, EHL y EHE.|
+~T|E05HLA020|Hormigón armado HA-25 N/mm2., Tmáx.20 mm., consistencia plástica, elaborado en central, en losas planas, i/p.p. de armadura (85 kg/m3) y encofrado visto de madera, vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EME, EHL y EHE.|
+~T|E05HLA030|Hormigón armado HA-25 N/mm2., Tmáx.20 mm., consistencia plástica, elaborado en central, en losas inclinadas, i/p.p. de armadura (85 kg/m3) y encofrado de madera, vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EME, EHL y EHE.|
+~T|E05HLE010|Encofrado y desencofrado de losa armada plana con tablero de madera de pino de 22 mm., confeccionado previamente, considerando 4 posturas. Normas NTE-EME.|
+~T|E05HLE020|Encofrado y desencofrado de losa armada inclinada, con tableros de madera de pino de 22 mm., considerando 4 posturas. Según norma NTE-EME.|
+~T|E05HLE030|Encofrado y desencofrado de losa armada con tablero formado por tabla machihembrada de madera de pino de 22 mm., confeccionados previamente, considerando una postura. Normas NTE-EME.|
+~T|E05HLM010|Hormigón para armar HA-25/P/20/I, elaborado en central, en losas planas, incluso vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EHL y EHE.|
+~T|E05HLM015|Hormigón para armar HA-25/P/20/I, elaborado en central, en losas planas, incluso vertido con pluma-grúa, vibrado y colocado. Según normas NTE-EHL y EHE.|
+~T|E05HLM020|Hormigón para armar HA-25/P/20/I, elaborado en central, en losas inclinadas, incluso vertido con pluma-grúa, vibrado y colocado. Según NTE-EHL y EHE.|
+~M|E05HLM#\E05HLM010|1\1\|2||
+~M|E05HLM#\E05HLM015|1\2\|3||
+~M|E05HLM#\E05HLM020|1\3\|5||
+~M|E05HLA#\E05HLA010|2\1\|5||
+~M|E05HLA#\E05HLA020|2\2\|6||
+~M|E05HLA#\E05HLA030|2\3\|4||
